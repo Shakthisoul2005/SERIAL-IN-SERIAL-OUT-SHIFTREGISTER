@@ -1,3 +1,6 @@
+# Developer name : Shakthivel v
+# Register No : 24901278
+
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
